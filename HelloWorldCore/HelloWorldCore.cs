@@ -4,6 +4,6 @@ class HelloWorldCore
 {
     static void Main()
     {
-        Console.WriteLine("Hello World with Core.");
+        Console.WriteLine("Hello World with Core.####");
     }
 }

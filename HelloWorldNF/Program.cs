@@ -6,7 +6,7 @@ namespace HelloWorldNF
     {
     public static void Main()
         {
-            Console.WriteLine("Hello WorldNFDDDDDDDDDDDDDD");
+            Console.WriteLine("Hello WorldNFDDDDD");
         }
     }
 }

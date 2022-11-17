@@ -1,0 +1,8 @@
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\obj\Debug\HelloWorldNF.csproj.AssemblyReference.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\obj\Debug\HelloWorldNF.csproj.SuggestedBindingRedirects.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\obj\Debug\HelloWorldNF.csproj.CoreCompileInputs.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\bin\Debug\HelloWorldNF.exe.config
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\bin\Debug\HelloWorldNF.exe
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\bin\Debug\HelloWorldNF.pdb
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\obj\Debug\HelloWorldNF.exe
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldNF\obj\Debug\HelloWorldNF.pdb

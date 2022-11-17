@@ -1,0 +1,15 @@
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\bin\Debug\net6.0\HelloWorldCore.exe
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\bin\Debug\net6.0\HelloWorldCore.deps.json
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\bin\Debug\net6.0\HelloWorldCore.runtimeconfig.json
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\bin\Debug\net6.0\HelloWorldCore.dll
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\bin\Debug\net6.0\HelloWorldCore.pdb
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.csproj.AssemblyReference.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.AssemblyInfoInputs.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.AssemblyInfo.cs
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.csproj.CoreCompileInputs.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.dll
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\refint\HelloWorldCore.dll
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.pdb
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\HelloWorldCore.genruntimeconfig.cache
+D:\MYPC\Desktop\Cprac\C#\HelloWorld\HelloWorldCore\obj\Debug\net6.0\ref\HelloWorldCore.dll

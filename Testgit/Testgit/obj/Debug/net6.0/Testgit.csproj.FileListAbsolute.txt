@@ -1,0 +1,15 @@
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\bin\Debug\net6.0\Testgit.exe
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\bin\Debug\net6.0\Testgit.deps.json
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\bin\Debug\net6.0\Testgit.runtimeconfig.json
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\bin\Debug\net6.0\Testgit.dll
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\bin\Debug\net6.0\Testgit.pdb
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.csproj.AssemblyReference.cache
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.AssemblyInfoInputs.cache
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.AssemblyInfo.cs
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.csproj.CoreCompileInputs.cache
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.dll
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\refint\Testgit.dll
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.pdb
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\Testgit.genruntimeconfig.cache
+D:\MYPC\Desktop\Study\C#\HelloWorld\Testgit\Testgit\obj\Debug\net6.0\ref\Testgit.dll
